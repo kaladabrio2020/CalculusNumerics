@@ -1,1 +1,11 @@
-# Calculus_Numerics_Pysimplesgui
+# Calculus Numerics with Pysimplesgui
+---------------------------
+##  **Methods numerics**
+  > Bissection\
+  > False position\
+  > Newton\
+  > Secant
+
+
+### Interface video
+--------------------------
