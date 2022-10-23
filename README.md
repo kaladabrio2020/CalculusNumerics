@@ -8,5 +8,7 @@
 
 
 ### Interface video
-![video_1](https://github.com/kaladabrio2020/Calculus_Numerics_Pysimplesgui/blob/main/VideosMK/M%C3%A9todos%20Num%C3%A9ricos%202022-10-23%2018-29-18.mp4)
+[video_1](https://user-images.githubusercontent.com/76600121/197419847-06024e92-0385-4ec8-bd77-6d1b01804fa8.mp4)
+
+
 --------------------------
