@@ -17,3 +17,5 @@
   > Gauss\
   > LU\
   > LDP
+
+[video_2](https://github.com/kaladabrio2020/Calculus_Numerics/issues/2#issue-1464942507)
