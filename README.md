@@ -8,7 +8,7 @@
 
 
 ### Interface video
-[video_1](https://user-images.githubusercontent.com/76600121/197419847-06024e92-0385-4ec8-bd77-6d1b01804fa8.mp4)
+[video_1](https://user-images.githubusercontent.com/76600121/204068107-2db76eff-2150-4877-89d6-1a915b761349.mp4)
 
 
 --------------------------
@@ -17,3 +17,6 @@
   > Gauss\
   > LU\
   > LDP
+
+##Interface video
+[video_2](https://user-images.githubusercontent.com/76600121/204057720-4e2531d8-325d-4109-ae5f-d77fa7f193a9.mp4)
